@@ -13,4 +13,5 @@ c) Top performing menu
 d) State generating the most revenue
 
 ### Data cleaning and analyis
-Sales data, including transaction-dates, menu items, locations, quantities sold, and prices was provided 
+Sales data, including transaction-dates (2000 rows), menu items, locations, quantities sold, and prices was provided.
+Data was cleaned using various functions in excel and analyzed with pivot tables and charts.
