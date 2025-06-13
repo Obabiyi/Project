@@ -14,6 +14,6 @@ d) State generating the most revenue
 
 ### Data cleaning and analyis
 Sales data, including transaction-dates (2000 rows), menu items, locations, quantities sold, and prices was provided.
-Data was cleaned using various functions in excel and analyzed with pivot tables and charts. Image of sales report is shown below:
+Data was cleaned using various functions in excel and analyzed with pivot tables and charts. Image of sales dashboard is shown below:
 ![ptf1](https://github.com/user-attachments/assets/3483ac28-933e-4257-beee-7a7adca3a947)
 
