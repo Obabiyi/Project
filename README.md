@@ -17,3 +17,8 @@ Sales data, including transaction-dates (2000 rows), menu items, locations, quan
 Data was cleaned using various functions in excel and analyzed with pivot tables and charts. Image of sales dashboard is shown below:
 ![ptf1](https://github.com/user-attachments/assets/3483ac28-933e-4257-beee-7a7adca3a947)
 
+### Insights: 
+-The product category generating the highest revenue is Coffee and Tea, specifically the Sugar-Free Caramel Syrup with Date.
+-Plateau State records the highest revenue among all states.
+-The top three months for sales are January, July, and November.
+![image](https://github.com/user-attachments/assets/c99c6b3f-6b4c-44c9-b43c-a9767e470780)
