@@ -19,6 +19,10 @@ Data was cleaned using various functions in excel and analyzed with pivot tables
 
 ### Insights: 
 -The product category generating the highest revenue is Coffee and Tea, specifically the Sugar-Free Caramel Syrup with Date.
+
 -Plateau State records the highest revenue among all states.
+
 -The top three months for sales are January, July, and November.
+
+- The following menu under international cuisine category showed lowest sale revenue: Americano & Croissant filled with suya spiced cream.
  
